@@ -1,0 +1,16 @@
+{
+  "name": "ppt-template-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "편집 가능한 한국어 PPT 템플릿 생성 스크립트",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-icons": "^5.7.0",
+    "sharp": "^0.35.5"
+  }
+}
