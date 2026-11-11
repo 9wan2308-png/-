@@ -1,6 +1,7 @@
 # 4축 로봇 팔 — Bambu Lab P2S용 G-code
 
 `robot_arm_3d.zip`의 판 묶음 STL(`plate1~3`)을 Bambu Studio 02.09.01.70으로 슬라이스한 파일입니다.
+`plate3_control_box`는 메인 만능기판 크기를 120×80으로 바꾼 버전(`robot_arm_3d_1.zip`)으로 다시 슬라이스했습니다. `plate1`, `plate2`는 두 버전의 STL이 같습니다.
 Bambu Studio의 **플레이트 슬라이스 파일 내보내기**와 같은 형식(`.gcode.3mf`)이라 USB에 넣어 P2S에서 바로 출력할 수 있습니다.
 
 ## 파일
