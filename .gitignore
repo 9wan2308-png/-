@@ -1,2 +1,3 @@
 generator/node_modules/
 generator/out/
+__pycache__/

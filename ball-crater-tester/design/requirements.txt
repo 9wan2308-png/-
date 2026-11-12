@@ -1,0 +1,6 @@
+numpy
+matplotlib
+manifold3d
+trimesh
+ezdxf
+koreanize-matplotlib  # 나눔고딕 글꼴 (불러오지 않고 글꼴 파일만 씀)
